@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/soltia_test_static/static/css/main.19a645a4.css",
+    "main.js": "/soltia_test_static/static/js/main.5a111a49.js",
+    "static/js/787.8a667213.chunk.js": "/soltia_test_static/static/js/787.8a667213.chunk.js",
+    "index.html": "/soltia_test_static/index.html",
+    "main.19a645a4.css.map": "/soltia_test_static/static/css/main.19a645a4.css.map",
+    "main.5a111a49.js.map": "/soltia_test_static/static/js/main.5a111a49.js.map",
+    "787.8a667213.chunk.js.map": "/soltia_test_static/static/js/787.8a667213.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.19a645a4.css",
+    "static/js/main.5a111a49.js"
+  ]
+}
